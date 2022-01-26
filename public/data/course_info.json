@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "slug": "cooking",
+        "name": "Cooking",
+        "img": "http://localhost:3000/static/media/cooking.3c9a029d9e17edcbea2e.png",
+        "content": [
+            {
+                "id": 1,
+                "name": "Basic Cooking",
+                "duration": "10 min"
+            },
+            {
+                "id": 2,
+                "name": "Vegetable Cooking",
+                "duration": "20 min"
+            },
+            {
+                "id": 3,
+                "name": "Meat Cooking",
+                "duration": "1 Hour"
+            }
+        ],
+        "author": "Sara Ali Khan",
+        "author_info": "",
+        "price": 150
+    },
+    {
+        "id": 2,
+        "slug": "physics",
+        "name": "Physics",
+        "img": "http://localhost:3000/static/media/physics.c296a77bed1c2215114e.png",
+        "content": [
+            {
+                "id": 1,
+                "name": "Basic Physics",
+                "duration": "10 min"
+            },
+            {
+                "id": 2,
+                "name": "Vectors",
+                "duration": "20 min"
+            },
+            {
+                "id": 3,
+                "name": "Electromagnetic Fields",
+                "duration": "1 Hour"
+            }
+        ],
+        "author": "Sara Ali Khan",
+        "author_info": "",
+        "price": 250
+    },
+    {
+        "id": 3,
+        "slug": "chemistry",
+        "name": "Chemistry",
+        "img": "http://localhost:3000/static/media/chemistry.f8541dc84ce68f3635f5.png",
+        "content": [
+            {
+                "id": 1,
+                "name": "Basic Chemistry",
+                "duration": "10 min"
+            },
+            {
+                "id": 2,
+                "name": "Chemical Reaction",
+                "duration": "20 min"
+            },
+            {
+                "id": 3,
+                "name": "Isotope",
+                "duration": "1 Hour"
+            }
+        ],
+        "author": "Sara Ali Khan",
+        "author_info": "",
+        "price": 250
+    }
+]
